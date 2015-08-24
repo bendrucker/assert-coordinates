@@ -28,7 +28,6 @@
     "index.js"
   ],
   "dependencies": {
-    "is-obj": "~1.0.0",
-    "number-is-integer": "~1.0.0"
+    "is-obj": "~1.0.0"
   }
 }
