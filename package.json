@@ -1,7 +1,7 @@
 {
   "name": "assert-coordinates",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Assert that an object has x/y coordinates",
   "license": "MIT",
   "repository": "bendrucker/assert-coordinates",
