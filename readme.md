@@ -1,4 +1,4 @@
-# assert-coordinates [![Build Status](https://travis-ci.org/bendrucker/assert-coordinates.svg?branch=master)](https://travis-ci.org/bendrucker/assert-coordinates)
+# assert-coordinates [![Build Status](https://travis-ci.org/bendrucker/assert-coordinates.svg?branch=master)](https://travis-ci.org/bendrucker/assert-coordinates) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/assert-coordinates.svg)](https://greenkeeper.io/)
 
 > Assert that an object has x/y coordinates
 
