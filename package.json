@@ -28,6 +28,6 @@
     "index.js"
   ],
   "dependencies": {
-    "is-obj": "~1.0.0"
+    "is-obj": "~2.0.0"
   }
 }
